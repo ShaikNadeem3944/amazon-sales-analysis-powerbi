@@ -5,6 +5,7 @@ An interactive sales analytics dashboard built using Microsoft Power BI to analy
 > **Note:** This project uses a synthetic dataset created for learning and portfolio purposes. It does not contain actual Amazon customer or transaction data.
 
 ## 📊 Dashboard
+![Amazon Sales Analysis Dashboard](screenshot/BI%20Dasboard.png)
 
 The Power BI dashboard includes:
 
